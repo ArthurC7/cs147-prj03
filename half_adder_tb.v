@@ -1,0 +1,16 @@
+`timescale 1ns/1ps
+
+module half_adder_tb; 
+reg A,B;
+wire S,C;
+
+HALF_ADDER hs_inst_1(.S(S), .C(C), .A(A), .B(B));
+
+initial
+begin
+#5 A=1; B=0;
+#5 A=0; B=1;
+#5 A=1; B=1;
+end
+
+endmodule
