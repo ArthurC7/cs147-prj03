@@ -9,1227 +9,1227 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 va_barrel_shift_tb
-Z0 !s110 1542586340
+!s110 1542586340
 !i10b 1
 !s100 C4;7<k^G;1NcdUZ0]51:e2
 I_c5_=QDZ]>c2OlH2JaF0E0
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/XBlad/Downloads/prj_03/prj3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/XBlad/Downloads/prj_03/prj3
 w1542586334
 8C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter_tb.v
 FC:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter_tb.v
 L0 2
-Z3 OP;L;10.4a;61
+Z2 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z4 !s108 1542586340.000000
+!s108 1542586340.000000
 !s107 C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter_tb.v|
 !s101 -O0
 !i113 1
-Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 vALU
-!s110 1542586338
+!s110 1542864339
 !i10b 1
-!s100 3QRmAC0hYTJ9hbZAnk4=a0
-I2z0zzTX:@]bdjEzOlBV[91
-R1
+!s100 g<BVWAdNR_gK_YMYN0W0B3
+I`a]3`oaI4zcUl[Goo`<VR1
+R0
+Z4 dC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03
+w1542864336
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/alu.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/alu.v
+Z5 L0 24
 R2
-Z6 w1541024796
-8C:/Users/XBlad/Downloads/prj_03/prj3/alu.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/alu.v
-Z7 L0 24
-R3
 r1
 !s85 0
 31
-Z8 !s108 1542586338.000000
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/alu.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/alu.v|
+!s108 1542864339.000000
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/alu.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@a@l@u
 vAND32
 !s110 1542485200
 !i10b 1
 !s100 JEPg^0BQoL]8B_`bc0^]F0
 I`L`IGT^`W1nSUT`WaXzEV3
+R0
 R1
-R2
 w1542485197
-Z9 8C:/Users/XBlad/Downloads/prj_03/prj3/mult.v
-Z10 FC:/Users/XBlad/Downloads/prj_03/prj3/mult.v
+Z6 8C:/Users/XBlad/Downloads/prj_03/prj3/mult.v
+Z7 FC:/Users/XBlad/Downloads/prj_03/prj3/mult.v
 L0 72
-R3
+R2
 r1
 !s85 0
 31
 !s108 1542485200.000000
-Z11 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/mult.v|
-Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mult.v|
+Z8 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/mult.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mult.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@a@n@d32
 vAND32_2x1
-Z13 !s110 1542586339
+Z10 !s110 1542775982
 !i10b 1
 !s100 1<?7@Rzj]L``LSWkd_SL=2
-I]IUBWIC8OTlo4fYfOHTH]3
-R1
-R2
-Z14 w1542494645
-Z15 8C:/Users/XBlad/Downloads/prj_03/prj3/logic_32_bit.v
-Z16 FC:/Users/XBlad/Downloads/prj_03/prj3/logic_32_bit.v
+I_Z:ZL:iTYKG:m`Vz:lP8j0
+R0
+R4
+Z11 w1542643986
+Z12 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_32_bit.v
+Z13 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_32_bit.v
 L0 38
-R3
+R2
 r1
 !s85 0
 31
-Z17 !s108 1542586339.000000
-Z18 !s107 C:/Users/XBlad/Downloads/prj_03/prj3/logic_32_bit.v|
-Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/logic_32_bit.v|
+Z14 !s108 1542775982.000000
+Z15 !s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_32_bit.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_32_bit.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@a@n@d32_2x1
 vBARREL_SHIFTER32
-R13
+Z17 !s110 1542775981
 !i10b 1
 !s100 QME9UEbUB]C;gSi7]CcWT2
-I[`c6BHV_bGf[<W3:^U=oP2
-R1
-R2
-Z20 w1542586161
-Z21 8C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter.v
-Z22 FC:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter.v
+IWh3:NUYf:VbKK1^g<7o>z0
+R0
+R4
+R11
+Z18 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/barrel_shifter.v
+Z19 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/barrel_shifter.v
 L0 54
-R3
+R2
 r1
 !s85 0
 31
-R8
-Z23 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter.v|
-Z24 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/barrel_shifter.v|
+Z20 !s108 1542775981.000000
+Z21 !s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/barrel_shifter.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/barrel_shifter.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@b@a@r@r@e@l_@s@h@i@f@t@e@r32
 vCLK_GENERATOR
-R13
+R17
 !i10b 1
 !s100 I`I=T4aaeE09lSRDFRN971
-I@:6B_<GE0@ZTXc_nIYKgE2
-R1
+IT_:ceF5DPJjX=CcWXVNja1
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/clk_gen.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/clk_gen.v
+Z23 L0 16
 R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/clk_gen.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/clk_gen.v
-Z25 L0 16
-R3
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/clk_gen.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/clk_gen.v|
+R20
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/clk_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/clk_gen.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@c@l@k_@g@e@n@e@r@a@t@o@r
 vCONTROL_UNIT
-R13
+R17
 !i10b 1
 !s100 9FSS2zGkW^@iHCo_79Mmk2
-IahX9a=1^n[VPUI^ZEOX_53
-R1
+Io@bbGVMPC=F;R?ni7GOVl2
+R0
+R4
+R11
+Z24 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/control_unit.v
+Z25 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/control_unit.v
+Z26 L0 21
 R2
-R6
-Z26 8C:/Users/XBlad/Downloads/prj_03/prj3/control_unit.v
-Z27 FC:/Users/XBlad/Downloads/prj_03/prj3/control_unit.v
-Z28 L0 21
-R3
 r1
 !s85 0
 31
-R17
-Z29 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/control_unit.v|
-Z30 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/control_unit.v|
+R20
+Z27 !s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/control_unit.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/control_unit.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@c@o@n@t@r@o@l_@u@n@i@t
 vD_FF
-R13
+Z29 !s110 1542915466
 !i10b 1
 !s100 gU1b2f9B1G7WDJM@:lP430
-IML_hk4AOadIak4eFZVhGN2
-R1
-R2
-Z31 w1542572265
-Z32 8C:/Users/XBlad/Downloads/prj_03/prj3/logic.v
-Z33 FC:/Users/XBlad/Downloads/prj_03/prj3/logic.v
+ISALhjAlk1dOaQKVNj3^j70
+R0
+R4
+Z30 w1542915464
+Z31 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic.v
+Z32 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic.v
 L0 97
-R3
+R2
 r1
 !s85 0
 31
-R17
-Z34 !s107 C:/Users/XBlad/Downloads/prj_03/prj3/logic.v|
-Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/logic.v|
+Z33 !s108 1542915466.000000
+Z34 !s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@d_@f@f
 vD_LATCH
-R13
+R29
 !i10b 1
 !s100 hNk`R2b?[Klb7BYJcL;EM3
-IG0Y3^omf3`YSmbm<^R?NR3
-R1
-R2
+I4S7K]=V1N@k:TE=W`>^3S1
+R0
+R4
+R30
 R31
 R32
-R33
 L0 110
-R3
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@d_@l@a@t@c@h
 vDA_VINCI
-R13
+R17
 !i10b 1
 !s100 daaTE@@o84`W9_S4X0zN70
-I@m@bdNcXdH`YIQNcm5T2W2
-R1
+Im]2Qh]QZP80hBdVXlGW^c3
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci.v
+R5
 R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/da_vinci.v
-R7
-R3
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci.v|
+R20
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@a_@v@i@n@c@i
 vDA_VINCI_TB
-R13
+R10
 !i10b 1
 !s100 EDhRnJ=27dG@6R3=CZMG53
-I7]mT1?5z83;^0mYAVBOK62
-R1
+IYP9CUf=4gRJEhY^k^Oo_g3
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci_tb.v
+R5
 R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/da_vinci_tb.v
-R7
-R3
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/da_vinci_tb.v|
+R14
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/da_vinci_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@a_@v@i@n@c@i_@t@b
 vDATA_PATH
-R13
+R10
 !i10b 1
 !s100 <G7DR5>j3XWd4Ji1V`O^60
-ICCVIN8VVM9cd@YS[YKNO`1
-R1
-R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/data_path.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/data_path.v
+I_SkES;L9=mhg4^2WG1[?63
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/data_path.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/data_path.v
 L0 20
-R3
+R2
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/data_path.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/data_path.v|
+R14
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/data_path.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/data_path.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@a@t@a_@p@a@t@h
 vDECODER_2x4
-R13
+R29
 !i10b 1
-!s100 S<a6BhIUDC_PX`@kg9cJ^3
-IP2eZH>`gnMY@hcmFNN8m=3
-R1
-R2
+!s100 cj[cIXH72Abz7`ijlicF?0
+Izh_Jk[<==?fm?jab>N<VO0
+R0
+R4
+R30
 R31
 R32
-R33
-L0 201
-R3
+L0 226
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@e@c@o@d@e@r_2x4
 vDECODER_3x8
-R13
+R29
 !i10b 1
-!s100 AKn<`d=g_e49DWH=FF^g70
-IM5k>4OfLUGW7I@;SfjMG71
-R1
-R2
+!s100 ;4zD>?6H?ADY`ZBQC3IQW0
+IjeDemKa>OQ=DFh_YmD:gJ2
+R0
+R4
+R30
 R31
 R32
-R33
-L0 176
-R3
+L0 201
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@e@c@o@d@e@r_3x8
 vDECODER_4x16
-R13
+R29
 !i10b 1
-!s100 _0n4S26zTaJ5>7azEFP]51
-IW7iW98VX3P4D8MzRfz67z3
-R1
-R2
+!s100 ZmT=lOFYoo6G>^lfT5_Kz1
+I^=mn4aBY^?cfzeT8o^zhl3
+R0
+R4
+R30
 R31
 R32
-R33
-L0 144
-R3
+L0 169
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@e@c@o@d@e@r_4x16
 vDECODER_5x32
-R13
+R29
 !i10b 1
-!s100 1Pc1cKgEFaaZFjGLcX2BE3
-IOBe3<cVjb39;Nc>_5l9@L3
-R1
-R2
+!s100 E<L[TP^m?XCYLUcTGl>hf1
+I@MDB30PCH2nEkPacA0dU=0
+R0
+R4
+R30
 R31
 R32
-R33
-L0 133
-R3
+L0 138
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@d@e@c@o@d@e@r_5x32
 vEXTENDED32
 !s110 1542484013
 !i10b 1
 !s100 4R3dMOoV`ZZ<2R]g37FZ[0
 IR6nZTja2CU2J13mdVm8d_1
+R0
 R1
-R2
 w1542483518
-R9
-R10
+R6
+R7
 L0 98
-R3
+R2
 r1
 !s85 0
 31
 !s108 1542484013.000000
-R11
-R12
+R8
+R9
 !s101 -O0
 !i113 1
-R5
+R3
 n@e@x@t@e@n@d@e@d32
 vFULL_ADDER
-R13
+R10
 !i10b 1
 !s100 J:A0QH90zEEzhfc8QQolW2
-IUOL@9JgdB0MGAhP8R:HPo2
-R1
-R2
-w1541032473
-8C:/Users/XBlad/Downloads/prj_03/prj3/full_adder.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/full_adder.v
+IJ]6^KYnjL09ZkMc_7_NHS3
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder.v
 Z36 L0 22
-R3
+R2
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/full_adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/full_adder.v|
+R14
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@f@u@l@l_@a@d@d@e@r
 vfull_adder_tb
-R0
+R10
 !i10b 1
 !s100 L4f:^7F@L3^nAg[7]93Uz1
-IGBhHlfZo@bD`<M@LX;<@X0
-R1
-R2
-w1541032796
-8C:/Users/XBlad/Downloads/prj_03/prj3/full_adder_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/full_adder_tb.v
+I=^G@JK`BE[z2i@iQWBOP_1
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 C:/Users/XBlad/Downloads/prj_03/prj3/full_adder_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/full_adder_tb.v|
+R14
+!s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/full_adder_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 vHALF_ADDER
-R13
+R10
 !i10b 1
 !s100 HIEEzmaVB;TEkhLZMn?gN3
-I6n>aiNHGJYIb3VY730;310
-R1
+Ii4hRN>WDQPg6CGjbzLNP;0
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder.v
+R26
 R2
-w1541031856
-8C:/Users/XBlad/Downloads/prj_03/prj3/half_adder.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/half_adder.v
-R28
-R3
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/half_adder.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/half_adder.v|
+R14
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@h@a@l@f_@a@d@d@e@r
 vhalf_adder_tb
-R0
+R10
 !i10b 1
 !s100 GY;;OIAL259iVbF1f^Zdb2
-IeVajeMnBKj9oaU684FiN`0
-R1
-R2
-w1541032083
-8C:/Users/XBlad/Downloads/prj_03/prj3/half_adder_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/half_adder_tb.v
+I=@fePc]LCB6Yb^VcYo;lg0
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 C:/Users/XBlad/Downloads/prj_03/prj3/half_adder_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/half_adder_tb.v|
+R14
+!s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/half_adder_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 vINV32_1x1
-R13
+R10
 !i10b 1
 !s100 _9LT>JDnj><IbzKZfe>Ze3
-IF2o?KP20JI=AeN]0gJLG92
-R1
+IH3E99I56BAK]7e5:[YECE2
+R0
+R4
+R11
+R12
+R13
+L0 58
 R2
+r1
+!s85 0
+31
 R14
 R15
 R16
-L0 58
-R3
-r1
-!s85 0
-31
-R17
-R18
-R19
 !s101 -O0
 !i113 1
-R5
+R3
 n@i@n@v32_1x1
 vINV64_1x1
-R13
+R29
 !i10b 1
 !s100 3Q;Fj<?5CAdNN836eXAcI3
-I^_cZMn]RZQS9TUX>g0UkZ1
-R1
-R2
+IfiBbz@?0fcD4g2lzUQ`IH1
+R0
+R4
+R30
 R31
 R32
-R33
 L0 33
-R3
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@i@n@v64_1x1
 vlogic_tb
-R0
+R10
 !i10b 1
 !s100 n6aV85]ATj8j6?1Aai10e1
-IlRLJzWJjelc;H`RSR9mm90
-R1
-R2
-w1542525476
-8C:/Users/XBlad/Downloads/prj_03/prj3/logic_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/logic_tb.v
+IZQa:zVPH3g<zh34m6ldXB0
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_tb.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 C:/Users/XBlad/Downloads/prj_03/prj3/logic_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/logic_tb.v|
+R14
+!s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/logic_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 vMEM_64MB_TB
-R13
+R10
 !i10b 1
 !s100 Q0bd^kgMCaH`JYm[fkQkH3
-IjEi8LNfU5WP7e^<gP5QGA3
-R1
-R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/mem_64MB_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/mem_64MB_tb.v
+IA_?:<T?aTzB0WXY@U_mT90
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mem_64MB_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mem_64MB_tb.v
 Z37 L0 23
-R3
+R2
 r1
 !s85 0
 31
-R17
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/mem_64MB_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mem_64MB_tb.v|
+R14
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mem_64MB_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mem_64MB_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@m@e@m_64@m@b_@t@b
 vMEMORY_64MB
-R13
+R10
 !i10b 1
 !s100 [HnJUC8QNEk>j6FK_9bcB3
-I0_:n_dD<^DFB0?C0R1fJh0
-R1
-R2
-R6
-Z38 8C:/Users/XBlad/Downloads/prj_03/prj3/memory.v
-Z39 FC:/Users/XBlad/Downloads/prj_03/prj3/memory.v
+IOS0GEKo5;?^I6ja8PgjPO0
+R0
+R4
+R11
+Z38 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/memory.v
+Z39 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/memory.v
 L0 66
-R3
+R2
 r1
 !s85 0
 31
-R17
-Z40 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/memory.v|
-Z41 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/memory.v|
+R14
+Z40 !s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/memory.v|
+Z41 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/memory.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@m@e@m@o@r@y_64@m@b
 vMEMORY_WRAPPER
-R13
+R10
 !i10b 1
 !s100 JbW=66C9AYZiFCAKCdPGk2
-IXXZ_@iTMkzmI<m^ekInDP3
-R1
-R2
-R6
+I3oU<^W2jC]O]QOmL]@`aj3
+R0
+R4
+R11
 R38
 R39
 L0 26
-R3
+R2
 r1
 !s85 0
 31
-R17
+R14
 R40
 R41
 !s101 -O0
 !i113 1
-R5
+R3
 n@m@e@m@o@r@y_@w@r@a@p@p@e@r
 vMULT32
-R0
+Z42 !s110 1542863368
 !i10b 1
 !s100 zi[?U8bN6Xl2W^UXn^Wl[1
-I6JO7mX=kZQB2SW5F^11M]2
-R1
-R2
-Z42 w1542576662
-R9
-R10
+IfDbLe]jBRhOn=b=l;4mOG3
+R0
+R4
+R11
+Z43 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult.v
+Z44 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult.v
 R36
-R3
+R2
 r1
 !s85 0
 31
-R4
-R11
-R12
+Z45 !s108 1542863368.000000
+Z46 !s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult.v|
+Z47 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@m@u@l@t32
 vMULT32_U
-R0
+R42
 !i10b 1
 !s100 Z[Ga;A_6Z4a<cT3a`NVz21
-I8F^G5HH2ImN=3[ba08F[?1
-R1
-R2
-R42
-R9
-R10
+IMo5TNSAE0_ma=WK2XQ=C<1
+R0
+R4
+R11
+R43
+R44
 L0 60
-R3
+R2
 r1
 !s85 0
 31
+R45
+R46
+R47
+!s101 -O0
+!i113 1
+R3
+n@m@u@l@t32_@u
+vmult_tb
+R10
+!i10b 1
+!s100 0[U[AXNQ4X1R1U_VVVPX<3
+I]5TnlgA]VPcoP0Z6zT:ka2
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mult_tb.v|
+!s101 -O0
+!i113 1
+R3
+vMUX1_2x1
+Z48 !s110 1542775983
+!i10b 1
+!s100 fO5inClDYY285aQPne^AO3
+IhB3PlDRB81o<:_HYLKbb;1
+R0
+R4
+R11
+Z49 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux.v
+Z50 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux.v
+L0 163
+R2
+r1
+!s85 0
+31
+R14
+Z51 !s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux.v|
+Z52 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux.v|
+!s101 -O0
+!i113 1
+R3
+n@m@u@x1_2x1
+vMUX32_16x1
+R10
+!i10b 1
+!s100 @1zfm[@dQ9lWP<4;@iPLd2
+IdjWKKREHU@6JjBQl8nYO40
+R0
+R4
+R11
+R49
+R50
+L0 41
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x32_16x1
+vMUX32_2x1
+R48
+!i10b 1
+!s100 BSHc]=dbYg<V8HaWaajn=1
+Inc;Ua1h3l^AUNn?ldT^lF2
+R0
+R4
+R11
+R49
+R50
+L0 142
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x32_2x1
+vMUX32_32x1
+R10
+!i10b 1
+!s100 ?JzYZTcIe=bZo?Bjk03911
+InlNKYQLa9d<3^Vb_n;[AH2
+R0
+R4
+R11
+R49
+R50
+Z53 L0 17
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x32_32x1
+vMUX32_4x1
+R48
+!i10b 1
+!s100 ;R87Rj:n3R1ASg0k;U]VY1
+I[oUBfQ:?CU4`@[iVkADY?2
+R0
+R4
+R11
+R49
+R50
+L0 100
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x32_4x1
+vMUX32_8x1
+R48
+!i10b 1
+!s100 A_6bNUbUzBCTC<Ce5@jc80
+If0Td1beMV7fZ2B^EkzBPf1
+R0
+R4
+R11
+R49
+R50
+L0 75
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x32_8x1
+vMUX64_2x1
+R48
+!i10b 1
+!s100 NZE]B1Cf5m4@@`[6LG=cg2
+IIb;Xo?cod?gWX5ji;lE<e2
+R0
+R4
+R11
+R49
+R50
+L0 122
+R2
+r1
+!s85 0
+31
+R14
+R51
+R52
+!s101 -O0
+!i113 1
+R3
+n@m@u@x64_2x1
+vmux_tb_1
+R48
+!i10b 1
+!s100 n0c5C;NeOE8l_MLVXN>JV2
+I2Xeg:30D6@h4INXdO9=190
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z54 !s108 1542775983.000000
+!s107 C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/mux_tb.v|
+!s101 -O0
+!i113 1
+R3
+vNOR32_2x1
+R10
+!i10b 1
+!s100 cGAzcHSX7??g71J]N]dZ41
+IQFW006ZE>enKGTf9lCd[`0
+R0
 R4
 R11
 R12
-!s101 -O0
-!i113 1
-R5
-n@m@u@l@t32_@u
-vmult_tb
-R0
-!i10b 1
-!s100 0[U[AXNQ4X1R1U_VVVPX<3
-I7zMFcI=ei=;86Fi<S3bBK0
-R1
-R2
-w1542484313
-8C:/Users/XBlad/Downloads/prj_03/prj3/mult_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/mult_tb.v
-L0 3
-R3
-r1
-!s85 0
-31
-R4
-!s107 C:/Users/XBlad/Downloads/prj_03/prj3/mult_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mult_tb.v|
-!s101 -O0
-!i113 1
-R5
-vMUX1_2x1
-R0
-!i10b 1
-!s100 fO5inClDYY285aQPne^AO3
-I6:Wc?R6kR@;0hC_5D:D:`1
-R1
-R2
-Z43 w1542526673
-Z44 8C:/Users/XBlad/Downloads/prj_03/prj3/mux.v
-Z45 FC:/Users/XBlad/Downloads/prj_03/prj3/mux.v
-L0 163
-R3
-r1
-!s85 0
-31
-R4
-Z46 !s107 C:/Users/XBlad/Downloads/prj_03/prj3/mux.v|
-Z47 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mux.v|
-!s101 -O0
-!i113 1
-R5
-n@m@u@x1_2x1
-vMUX32_16x1
-R0
-!i10b 1
-!s100 @1zfm[@dQ9lWP<4;@iPLd2
-I@T^>Z`GO?MGj3:U>eBlDb2
-R1
-R2
-R43
-R44
-R45
-L0 41
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x32_16x1
-vMUX32_2x1
-R0
-!i10b 1
-!s100 BSHc]=dbYg<V8HaWaajn=1
-I5ohlcI<XVG?ifBGiREFg_2
-R1
-R2
-R43
-R44
-R45
-L0 142
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x32_2x1
-vMUX32_32x1
-R0
-!i10b 1
-!s100 ?JzYZTcIe=bZo?Bjk03911
-I[elb9Iz;8dj9OfX[lSZb[1
-R1
-R2
-R43
-R44
-R45
-Z48 L0 17
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x32_32x1
-vMUX32_4x1
-R0
-!i10b 1
-!s100 ;R87Rj:n3R1ASg0k;U]VY1
-Im2imU:4hnC2Zle_RJ@?hj3
-R1
-R2
-R43
-R44
-R45
-L0 100
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x32_4x1
-vMUX32_8x1
-R0
-!i10b 1
-!s100 A_6bNUbUzBCTC<Ce5@jc80
-I^ckVWkPbY0HNf2aegLik]3
-R1
-R2
-R43
-R44
-R45
-L0 75
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x32_8x1
-vMUX64_2x1
-R0
-!i10b 1
-!s100 NZE]B1Cf5m4@@`[6LG=cg2
-ImTNUT@zZLe^bBi>b5:VZS2
-R1
-R2
-R43
-R44
-R45
-L0 122
-R3
-r1
-!s85 0
-31
-R4
-R46
-R47
-!s101 -O0
-!i113 1
-R5
-n@m@u@x64_2x1
-vmux_tb_1
-R0
-!i10b 1
-!s100 n0c5C;NeOE8l_MLVXN>JV2
-IbAQ^lZoX0kGmL8F_J4;;_0
-R1
-R2
-w1541450634
-8C:/Users/XBlad/Downloads/prj_03/prj3/mux_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/mux_tb.v
-L0 3
-R3
-r1
-!s85 0
-31
-R4
-!s107 C:/Users/XBlad/Downloads/prj_03/prj3/mux_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/mux_tb.v|
-!s101 -O0
-!i113 1
-R5
-vNOR32_2x1
 R13
-!i10b 1
-!s100 cGAzcHSX7??g71J]N]dZ41
-I7=F]`^iNSUlzag1feKXe>2
-R1
+L0 18
 R2
+r1
+!s85 0
+31
 R14
 R15
 R16
-L0 18
-R3
-r1
-!s85 0
-31
-R17
-R18
-R19
 !s101 -O0
 !i113 1
-R5
+R3
 n@n@o@r32_2x1
 vOR27
-R13
+R17
 !i10b 1
 !s100 hP81bQWEdHY^TIz41FVKU3
-ICGTB5;oAFeYUA_V0mS_cV0
-R1
-R2
-R20
-R21
-R22
+ID7eX<XY^fN<;X:DBQGP=R1
+R0
+R4
+R11
+R18
+R19
 L0 35
-R3
+R2
 r1
 !s85 0
 31
-R8
-R23
-R24
+R20
+R21
+R22
 !s101 -O0
 !i113 1
-R5
+R3
 n@o@r27
 vOR32_2x1
-R13
+R10
 !i10b 1
 !s100 AKohSB3dO59Y5FHIZeJ571
-I8FmoZP_<UP6SCazD=dPAQ1
-R1
+Ib@h@GE^2z`7>FC@PldeMS1
+R0
+R4
+R11
+R12
+R13
+L0 77
 R2
+r1
+!s85 0
+31
 R14
 R15
 R16
-L0 77
-R3
-r1
-!s85 0
-31
-R17
-R18
-R19
 !s101 -O0
 !i113 1
-R5
+R3
 n@o@r32_2x1
 vPROC_CS147_SEC05
-R0
+R48
 !i10b 1
 !s100 VY9:L2cMX3;DK2FQTog=G3
-Ih?D1CfGWf9Uz1K81k@7>82
-R1
-R2
-R6
-8C:/Users/XBlad/Downloads/prj_03/prj3/processor.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/processor.v
+ITHD;m9_kbVJZ6F^>lM^]R1
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/processor.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/processor.v
 R37
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/processor.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/processor.v|
+R54
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/processor.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@p@r@o@c_@c@s147_@s@e@c05
 vPROC_SM
-R13
+R17
 !i10b 1
 !s100 >C78l=;=jZ]Vz@ZlzPmVI3
-ILV@]zI1G8a9XMDT`ibYh;3
-R1
+Im>LOjLO9DnLgEbCNo3[gi0
+R0
+R4
+R11
+R24
+R25
+Z55 L0 53
 R2
-R6
-R26
-R27
-Z49 L0 53
-R3
 r1
 !s85 0
 31
-R17
-R29
-R30
+R20
+R27
+R28
 !s101 -O0
 !i113 1
-R5
+R3
 n@p@r@o@c_@s@m
 vRC_ADD_SUB_32
-R0
+R48
 !i10b 1
 !s100 MD[fzKJRWN@?fm=VR@H;P0
-IIS2Bcgl16]4YKA_7UKL;F1
-R1
-R2
-Z50 w1542526367
-Z51 8C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32.v
-Z52 FC:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32.v
+I:cdQco]`UJffG=6azch^70
+R0
+R4
+R11
+Z56 8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32.v
+Z57 FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32.v
 L0 55
-R3
+R2
 r1
 !s85 0
 31
-R4
-Z53 !s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32.v|
-Z54 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32.v|
+R54
+Z58 !s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32.v|
+Z59 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@c_@a@d@d_@s@u@b_32
 vrc_add_sub_32_tb
-R0
+R48
 !i10b 1
 !s100 RClPSB;_zAg`9iVUg=MKM1
-IP8YGlOTL<0=Y`L;Clio3l2
-R1
-R2
-w1542440704
-8C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32_tb.v
+IGDaW<fGj:jhR1R4];`FZh1
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32_tb.v
 L0 4
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/rc_add_sub_32_tb.v|
+R54
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/rc_add_sub_32_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 vRC_ADD_SUB_64
-R0
+R48
 !i10b 1
 !s100 12VPaW9HFmM4HASdbnE2S3
-Id_8HK=h:H]=MdcIB]5;6U3
-R1
-R2
-R50
-R51
-R52
+Iak7Ffm[JJk8LQOznTOLS@1
+R0
+R4
+R11
+R56
+R57
 R37
-R3
+R2
 r1
 !s85 0
 31
-R4
-R53
 R54
+R58
+R59
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@c_@a@d@d_@s@u@b_64
 vREG1
-R13
+R29
 !i10b 1
 !s100 _mKKJ`NU`FfK5Ln^c2J9E0
-INohRmjY=c?958gJYTCA_@3
-R1
-R2
+Ilc2D;MokW894>La`6C=O_0
+R0
+R4
+R30
 R31
 R32
-R33
 L0 84
-R3
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@e@g1
 vREG32
-R13
+R29
 !i10b 1
 !s100 NfA]nUdV7BJ[dHWNmG6KT2
-IO0U6T8JQ>d4TZ1@<@YWX21
-R1
-R2
+IEof1R;dRS5;SK`2FG>`n@3
+R0
+R4
+R30
 R31
 R32
-R33
 L0 69
-R3
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@e@g32
 vREGISTER_FILE_32x32
-R0
+R48
 !i10b 1
 !s100 gIKfN<^ak7GHG>^EVGjI`0
-IVF?CKejG7Y__M;A>@@D9I2
-R1
-R2
-Z55 w1541024797
-8C:/Users/XBlad/Downloads/prj_03/prj3/register_file.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/register_file.v
+I6EfSd[]H2<Q<Y_<4iV0BE2
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file.v
 L0 32
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/register_file.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/register_file.v|
+R54
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@e@g@i@s@t@e@r_@f@i@l@e_32x32
 vRF_TB
-R0
+R48
 !i10b 1
 !s100 dh5=Ud7=F?h8g[IM3F9Sj1
-Il5]1Z[jYQGe6hf>M>?2Il2
-R1
-R2
-R55
-8C:/Users/XBlad/Downloads/prj_03/prj3/register_file_tb.v
-FC:/Users/XBlad/Downloads/prj_03/prj3/register_file_tb.v
+In>B5K:HHb578jB6gdNj1M1
+R0
+R4
+R11
+8C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file_tb.v
+FC:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file_tb.v
 R37
-R3
+R2
 r1
 !s85 0
 31
-R4
-!s107 prj_definition.v|C:/Users/XBlad/Downloads/prj_03/prj3/register_file_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/Downloads/prj_03/prj3/register_file_tb.v|
+R54
+!s107 prj_definition.v|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/XBlad/OneDrive/Documents/GitHub/cs147-prj03/register_file_tb.v|
 !s101 -O0
 !i113 1
-R5
+R3
 n@r@f_@t@b
 vSHIFT32
-R13
+R17
 !i10b 1
 !s100 _dV^Ne0Go2zlYPP`W2:UY0
-I]<C7Z4YFBaCk;4zz2:LGG3
-R1
+IKdFRf71cGDbVgzF2XBY=F1
+R0
+R4
+R11
+R18
+R19
+R23
 R2
-R20
-R21
-R22
-R25
-R3
 r1
 !s85 0
 31
-R8
-R23
-R24
+R20
+R21
+R22
 !s101 -O0
 !i113 1
-R5
+R3
 n@s@h@i@f@t32
 vSHIFT32_L
-R13
+R17
 !i10b 1
 !s100 4^2m?1LWHR1GB7oW3eH5=0
-I>fjeFAgFjAN2KH]SBS<J:1
-R1
-R2
-R20
-R21
-R22
+I037k<TU@MToPj1G3S9OJA2
+R0
+R4
+R11
+R18
+R19
 L0 162
-R3
+R2
 r1
 !s85 0
 31
-R8
-R23
-R24
+R20
+R21
+R22
 !s101 -O0
 !i113 1
-R5
+R3
 n@s@h@i@f@t32_@l
 vSHIFT32_R
-R13
+R17
 !i10b 1
 !s100 a_V;Z7l26Y26^]IdM1:We3
-Id42RNVCK82j6KkU5bZW@X1
-R1
+IMVBaloPn^5RVF^4RKLe=Y2
+R0
+R4
+R11
+R18
+R19
+L0 73
 R2
+r1
+!s85 0
+31
 R20
 R21
 R22
-L0 73
-R3
-r1
-!s85 0
-31
-R8
-R23
-R24
 !s101 -O0
 !i113 1
-R5
+R3
 n@s@h@i@f@t32_@r
 vSR_LATCH
-R13
+R29
 !i10b 1
-!s100 I_UTHd2bRR064ZQ^ICQdb0
-IWlhD_1K6Cbm7h`dIVWE1P2
-R1
-R2
+!s100 LR_TKgB[Rb;_BSlKI]Ih<0
+IMeieA<jJUk7ZRIA>[b;>R0
+R0
+R4
+R30
 R31
 R32
-R33
 L0 123
-R3
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@s@r_@l@a@t@c@h
 vTWOSCOMP32
-R13
+R29
 !i10b 1
 !s100 h4zo]32@>2=G0O5bcPFnE2
-I;cZXUYK<lWiOP:[h5CAX:1
-R1
-R2
+I=aMfdPYKo:;O]<5jUc^hB0
+R0
+R4
+R30
 R31
 R32
-R33
-R49
-R3
+R55
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@t@w@o@s@c@o@m@p32
 vTWOSCOMP64
-R13
+R29
 !i10b 1
 !s100 7IZj[Ni12J>F2L>bLeR:O2
-ImX2aoeD]aJYU?15f^3LdB1
-R1
-R2
+Id;[E2d6nY@K[`Ti6M4?Ig0
+R0
+R4
+R30
 R31
 R32
-R33
-R48
-R3
+R53
+R2
 r1
 !s85 0
 31
-R17
+R33
 R34
 R35
 !s101 -O0
 !i113 1
-R5
+R3
 n@t@w@o@s@c@o@m@p64

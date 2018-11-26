@@ -126,12 +126,10 @@ input nP, nR;
 output Q,Qbar;
 
 // TBD
-wire nand_res1;
-wire nand_res2; 
-wire nand_res3;
-wire nand_res_4;
-
-
+wire and_res1;
+wire and_res2; 
+wire and_res3;
+wire and_res_4;
 
 
 endmodule

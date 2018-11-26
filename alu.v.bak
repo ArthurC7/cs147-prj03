@@ -64,7 +64,7 @@ AND32_2x1 and32_inst(and_res, OP1, OP2);
 OR32_2x1 or32_inst(or_res, OP1, OP2);
 NOR32_2x1 nor32_inst(nor_res, OP1, OP2);
 
-MUX32_16x1 mux16x1_inst(mux_out, add_sub_res, add_sub_res, LO, shift_res, shift_res, and_res, or_res, nor_res, {31'b0, add_sub_res[31]});
+MUX32_16x1 mux16x1_inst(mux_out, add_sub_res, add_sub_res, LO, shift_res, shift_res, and_res, or_res, nor_res, {32'b0, add_sub_res[31]});
 assign Y = mux_out;
 
 nor nor_inst1(zero_calc[1], mux_out[0], mux_out[1]);
